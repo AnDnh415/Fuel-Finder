@@ -1,7 +1,5 @@
-Tean BCL- Beyond the City Limit
-Python project made by Tommy Parker, An Dinh, Christian Marlow, Zaim Nilgiriwala, and Alex Choi
-Proposed problems:/nA million people run out of gas per year due to forgetness/n32% of American drivers continue to drive on empty/n/t==> the less fuel in the tank, the greater the risk
-Proposed solution: Fuel Finder - a built-in program links the navigation with fuel sensor to suggest nearby gas station automatically/n/n
-    Includes - GUI with sound and search bar
-             - Alert system connected to fuel gauge
-             - Navigation data taken from GPS/ Google places
+Team BCL- Beyond the City Limit <br  />
+&ensp; Python project made by Tommy Parker, An Dinh, Christian Marlow, Zaim Nilgiriwala, and Alex Choi <br  />
+Problems: The less fuel in the tank, the greater the risk <br  />
+Proposed solution: Fuel Finder - a built-in program that links the navigation with the fuel sensor to suggest nearby gas stations automatically <br  />
+&ensp; Includes GUI with sound and search bar, an alert system connected to fuel gauge, and navigation taken from GPS/ Google data
