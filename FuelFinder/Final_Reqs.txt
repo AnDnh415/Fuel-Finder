@@ -1,0 +1,4 @@
+tkintermapview
+python-google-places
+
+(most recent version for both)
